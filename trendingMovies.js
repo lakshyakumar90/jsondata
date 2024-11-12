@@ -1,4 +1,4 @@
-export const trendingMovieData = [
+const trendingMovieData = [
   {
     id: 1,
     imageId:

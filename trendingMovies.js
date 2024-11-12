@@ -1,4 +1,4 @@
-const trendingMovieData = [
+[
   {
     id: 1,
     imageId:

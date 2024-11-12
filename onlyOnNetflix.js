@@ -1,4 +1,4 @@
-export const onlyOnNetflixMovieData = [
+ const onlyOnNetflixMovieData = [
     {
       id: 1,
       imageId:
